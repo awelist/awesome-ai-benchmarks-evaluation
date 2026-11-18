@@ -53,8 +53,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LAION Benchmarks](https://laion.ai/blog/) – Evaluation datasets for multimodal embeddings and retrieval.
 - [Video Question Answering Benchmarks](https://github.com/topics/video-question-answering) – For video–text reasoning.
 - [DocuBench](https://github.com/DocuPipe/DocuBench) – Document data extraction benchmark: 50 hard real-world documents, hand-verified labels, and an open scorer.
-- [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) — Benchmark for reconstructing full-stack websites through browser exploration, with tests for visual fidelity, user workflows, and persistent state.
-  
+
 ## RAG Benchmarks
 
 - [RAGAS](https://github.com/explodinggradients/ragas) – Comprehensive metrics for evaluating retrieval-augmented generation.
@@ -82,6 +81,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) – Benchmark and evaluation framework for structured-output generation across multiple formats.
 - [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open framework for benchmarking AI web agents on real-world web tasks.
+- [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) – Benchmark for AI web agents reconstructing full-stack websites, with 70 tasks and hidden tests for visual fidelity, workflows, and system behavior.
 
 ## Datasets
 
