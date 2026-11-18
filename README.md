@@ -53,6 +53,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LAION Benchmarks](https://laion.ai/blog/) – Evaluation datasets for multimodal embeddings and retrieval.
 - [Video Question Answering Benchmarks](https://github.com/topics/video-question-answering) – For video–text reasoning.
 - [DocuBench](https://github.com/DocuPipe/DocuBench) – Document data extraction benchmark: 50 hard real-world documents, hand-verified labels, and an open scorer.
+- [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) — Benchmark for reconstructing full-stack websites through browser exploration, with tests for visual fidelity, user workflows, and persistent state.
   
 ## RAG Benchmarks
 
